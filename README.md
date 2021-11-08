@@ -96,8 +96,3 @@ Module 5: APIs and Data Collection
      Working with different file formats (csv, xml, json, xlsx)
      Hands-on Lab: Working with different file formats
      Practice Quiz
-     Graded Quiz
-
-Final Exam
-
-Python Code Quick Reference Guide
