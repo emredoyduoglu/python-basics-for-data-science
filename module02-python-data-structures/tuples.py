@@ -31,3 +31,24 @@ print(NT[2][0])
 print(NT[2][1])
 print(NT[4][1])
 print(NT[4][1][0])
+
+"""
+(10, 9, 6, 5, 10, 8, 9, 6, 2)
+<class 'tuple'>
+<class 'tuple'>
+disco
+1.2
+('disco', 10, 1.2, 'hard rock', 10)
+('disco', 10, 1.2)
+5
+[2, 5, 6, 6, 8, 9, 9, 10, 10]
+('pop', 'rock')
+pop
+rock
+(1, 2)
+1
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
+"""
