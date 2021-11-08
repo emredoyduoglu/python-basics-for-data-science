@@ -1,46 +1,29 @@
-print("Types")
-a = 10
-b = 10.6
-c = "Hello Python 101"
-d = True
-print(type(a))
-print(type(b))
-print(type(c))
-print(type(d))
-print("Typecasting")
-e = float(a)
-f = int(b)
-g = int('88')
-h = int(d)
-i = int(False)
-print(e)
-print(type(e))
-print(f)
-print(type(f))
-print(g)
-print(type(g))
-print(h)
-print(type(h))
-print(i)
-print(type(i))
+#variables - It's common to use the underscore to represent the start of a new word.
+my_variable = 160
+
+#addition
+a = 50 + 70
+#subtraction
+b= 100 - 20
+#multiplication
+c = 5*5
+#division (regular)
+d = 25/3
+#division (int)
+e = 25//3
+
+print("addition",a)
+print("subtraction",b)
+print("multiplication",c)
+print("division (regular)",d)
+print("division (int)",e)
 
 """
-Types
-<class 'int'>
-<class 'float'>
-<class 'str'>
-<class 'bool'>
-Typecasting
-10.0
-<class 'float'>
-10
-<class 'int'>
-88
-<class 'int'>
-1
-<class 'int'>
-0
-<class 'int'>
+addition 120
+subtraction 80
+multiplication 25
+division (regular) 8.333333333333334
+division (int) 8
 
 
 ** Process exited - Return Code: 0 **
