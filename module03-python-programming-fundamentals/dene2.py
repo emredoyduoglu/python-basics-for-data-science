@@ -1,0 +1,6 @@
+print("dene1")
+print("dene1")
+print("dene1")
+print("dene1")
+print("dene1")
+print("dene1")
