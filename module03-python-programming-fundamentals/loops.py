@@ -58,4 +58,19 @@ while(year != 1973):
 
 print("It took ", i ,"repetitions to get out of loop.")
 
+#example
 
+sides = [0 for i in range(3)]
+print(sides)
+print(type(sides))
+
+sides = [i for i in range(3)]
+print(sides)
+print(type(sides))
+
+"""
+[0, 0, 0]
+<class 'list'>
+[0, 1, 2]
+<class 'list'>
+"""
