@@ -1,6 +1,6 @@
 # Read the Example1.txt
 
-example1 = "Example1.txt"
+example1 = "data/example1.txt"
 file1 = open(example1, "r")
 
 # Print the path of file
